@@ -1,6 +1,7 @@
 # Assignment #2
 ### Developer Nicholas Biegel
+---
+
+The following assingust must be run using python version 3.6.1 or above.
 
 To execute assignment type: ```python assignment2.py```
-
-**_python version needed is v3.6.1_**
