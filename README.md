@@ -2,4 +2,6 @@
 
 ***** Assignment #2 *******
 
-To execute assignment type python3 assignment2.py
+To execute assignment type: ```python assignment2.py```
+
+* Python version needed is v3.6.1
