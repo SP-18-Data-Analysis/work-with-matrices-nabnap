@@ -1,5 +1,5 @@
 # Assignment #2
-## Developer Nicholas Biegel
+### Developer Nicholas Biegel
 
 To execute assignment type: ```python assignment2.py```
 
